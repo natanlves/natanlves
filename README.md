@@ -43,6 +43,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/natanlves/natanlves/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/natanlves/natanlves/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
